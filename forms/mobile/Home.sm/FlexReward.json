@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "54dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s54ee64d4ce54dc5bca1cc7531ff0793",
+    "_top_": {
+        "type": "string",
+        "value": "192dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Trophy",
+        "CurrencyInr",
+        "lblRewardAmount",
+        "lblRewardEarned"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexReward",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h2b0e8f2d5b646eda51a1e89fac9b636",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexGpay",
+    "pf": "Home",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

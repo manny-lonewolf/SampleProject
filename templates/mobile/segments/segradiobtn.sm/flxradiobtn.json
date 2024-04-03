@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s54ee64d4ce54dc5bca1cc7531ff0793",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Calendar0f805238e9b9847",
+        "Slider0a0ff0c31801644",
+        "Phone0e729cca9826d4c"
+    ],
+    "clipbounds": false,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxradiobtnController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxradiobtn",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ff63f8b67bcd4c75be604fc64d7e226c",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segradiobtn",
+    "pf": "segradiobtn",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

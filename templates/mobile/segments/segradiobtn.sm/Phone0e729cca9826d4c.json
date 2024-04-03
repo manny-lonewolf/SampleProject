@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCall",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s78ad59261194bb292adb742aafeaaa2",
+    "_text_": "+91-999-999-8888",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "displaytext": true,
+    "focusskin": "s937a32eb1e745dca4042243c441f44b",
+    "id": "Phone0e729cca9826d4c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "b922a77d6f9143a19fcc9f6c8ca434d8",
+    "name": "kony.ui.Phone",
+    "parent": "flxradiobtn",
+    "pf": "segradiobtn",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Phone",
+    "watchos": {
+        "render": false
+    },
+    "windows10": {
+        "render": false
+    },
+    "winphone10": {
+        "render": false
+    }
+}
